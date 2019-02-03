@@ -26,3 +26,4 @@ Ricardo Rodrigues - Game Design, Sound/Music
 
 ## Links
 * [GGJ](https://globalgamejam.org/2018/games/spy-or-die) - Spy or Die on GGJ#18
+* [Itch.io](https://electricganesha.itch.io/spy-or-die) - Spy or Die Itch.io
